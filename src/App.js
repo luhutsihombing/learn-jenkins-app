@@ -19,7 +19,7 @@ function App() {
           Application version: 1
       </p>
       <p>
-        Copyright 2025
+        Copyright 2025 - IDcreativity
       </p>
     </div>
   );
