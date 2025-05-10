@@ -18,6 +18,9 @@ function App() {
       <p>
           Application version: 1
       </p>
+      <p>
+        Copyright 2025
+      </p>
     </div>
   );
 }
